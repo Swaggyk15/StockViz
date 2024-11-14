@@ -1,6 +1,6 @@
-Candlestocks - Stock Data Analyzer
+StockViz - Stock Data Analyzer
 
-Hello! My name is Kenny Monterrosos, and I have developed Candlestocks, a stock data analyzer tool built using .NET Framework. The application parses stock data from CSV files and visualizes it using candlestick charts, allowing users to analyze stock patterns effectively.
+Hello! My name is Kenny Monterrosos, and I have developed StockViz, a stock data analyzer tool built using .NET Framework. The application parses stock data from CSV files and visualizes it using candlestick charts, allowing users to analyze stock patterns effectively.
 
 Features
 Windows Forms Application: Built with the .NET Framework, providing a user-friendly interface for visualizing stock data.
